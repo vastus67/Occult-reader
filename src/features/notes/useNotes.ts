@@ -1,10 +1,14 @@
 import { useState, useEffect, useCallback } from 'react';
-import { getAllHighlights, getAllNotes, getAllBookmarks, deleteNote } from '@/db/queries';
+import { getAllHighlights, getAllNotes, getAllBookmarks, deleteNote, type Highlight, type Note, type Bookmark, type Passage } from '@/db/queries';
+
+type HighlightWithPassage = Highlight & { passage: Passage | null; bookTitle: string; chapterTitle: string };
+type NoteWithPassage = Note & { passage: Passage | null; bookTitle: string; chapterTitle: string };
+type BookmarkWithPassage = Bookmark & { passage: Passage | null; bookTitle: string; chapterTitle: string };
 
 export function useNotes() {
-  const [highlights, setHighlights] = useState<any[]>([]);
-  const [notes, setNotes] = useState<any[]>([]);
-  const [bookmarks, setBookmarks] = useState<any[]>([]);
+  const [highlights, setHighlights] = useState<HighlightWithPassage[]>([]);
+  const [notes, setNotes] = useState<NoteWithPassage[]>([]);
+  const [bookmarks, setBookmarks] = useState<BookmarkWithPassage[]>([]);
   const [loading, setLoading] = useState(true);
 
   const reload = useCallback(async () => {

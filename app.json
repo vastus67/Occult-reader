@@ -24,7 +24,12 @@
       "package": "com.occultlibrary.app"
     },
     "plugins": [
-      "expo-router",
+      [
+        "expo-router",
+        {
+          "root": "./src/app"
+        }
+      ],
       "expo-sqlite",
       [
         "expo-splash-screen",
