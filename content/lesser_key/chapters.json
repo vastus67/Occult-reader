@@ -1,0 +1,80 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction to the Lemegeton",
+      "passages": [
+        {
+          "number": 1,
+          "text": "This book is called the Lemegeton, or the Complete System of Demonology, and containeth all the names, orders, offices, seals, and characters of the spirits and demons, both good and bad, and what each spirit is capable of performing."
+        },
+        {
+          "number": 2,
+          "text": "The Lemegeton is divided into five parts: the Goetia, concerning the 72 spirits bound by Solomon; the Theurgia-Goetia, of aerial spirits; the Ars Paulina, of angelic spirits of the hours; the Ars Almadel, of the four altitudes; and the Ars Notoria, of holy notions."
+        },
+        {
+          "number": 3,
+          "text": "Note well: this book is presented here purely as an historical document, reflecting the beliefs and practices of the seventeenth century. It is a primary source for the scholarly study of the history of ceremonial magic traditions in the Western world."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Goetia: Historical Preface",
+      "passages": [
+        {
+          "number": 1,
+          "text": "The tradition holds that King Solomon bound 72 spirits in a brass vessel sealed with magical sigils. Upon his death, the Babylonians opened the vessel, hoping to find treasure, and thus released the spirits back into the world."
+        },
+        {
+          "number": 2,
+          "text": "Each spirit has its own seal or character by which it is called. The seals are of historical significance as examples of the magical symbolism of the early modern period, combining elements of Hebrew, Arabic, and European esoteric traditions."
+        },
+        {
+          "number": 3,
+          "text": "Scholars have traced the origins of the Goetia through a long tradition of magical texts including the Testament of Solomon, the Munich Handbook (Clm 849), and the Ars Notoria, showing how these traditions evolved over centuries."
+        },
+        {
+          "number": 4,
+          "text": "The 72 spirits of the Goetia are described as commanding legions, teaching arts and sciences, answering questions, and performing wonders. Each entry in this historical grimoire describes the spirit's rank, nature, and the seal attributed to it."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Theurgia-Goetia",
+      "passages": [
+        {
+          "number": 1,
+          "text": "The second book of the Lemegeton is called the Theurgia-Goetia, and it contains the names and orders of aerial spirits, both good and evil, with the names of their servants and their seals or characters."
+        },
+        {
+          "number": 2,
+          "text": "The principal spirits of this section are associated with the cardinal and intermediate points of the compass, each commanding lesser spirits attributed to their celestial direction. This reflects the cosmology common to Renaissance magical philosophy."
+        },
+        {
+          "number": 3,
+          "text": "Unlike the Goetia, which concerns itself primarily with the subterranean or chthonic powers, the Theurgia-Goetia deals with spirits of the aerial world — those inhabiting the space between the earth and the sphere of the moon."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "The Ars Notoria: Holy Notions",
+      "passages": [
+        {
+          "number": 1,
+          "text": "The Ars Notoria is the most devotional section of the Lemegeton. It consists of a series of prayers and meditations attributed to Solomon, through which he received divine wisdom and knowledge of the liberal arts."
+        },
+        {
+          "number": 2,
+          "text": "The prayers of the Ars Notoria are accompanied by magical figures called 'notae', which the practitioner is to contemplate. These figures are among the most complex and enigmatic symbols in the history of Western esotericism."
+        },
+        {
+          "number": 3,
+          "text": "Scholars such as Claire Fanger and Frank Klaassen have studied the Ars Notoria extensively, tracing its manuscripts back to the twelfth and thirteenth centuries and examining its relationship to medieval scholastic traditions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Occult Library",
+    "slug": "occult-library",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "occultlibrary",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#282a36"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.occultlibrary.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#282a36"
+      },
+      "package": "com.occultlibrary.app"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#282a36"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

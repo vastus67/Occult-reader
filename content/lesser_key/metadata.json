@@ -1,0 +1,14 @@
+{
+  "id": "lesser_key",
+  "title": "The Lesser Key of Solomon",
+  "author": "Anonymous",
+  "translator": "S. L. MacGregor Mathers & Aleister Crowley",
+  "description": "The Lemegeton, a 17th-century grimoire of ceremonial magic, presented here as an historical study.",
+  "tags": ["Grimoire", "Ceremonial Magic", "Historical"],
+  "sortOrder": 4,
+  "edition": "Mathers/Crowley edition, 1904",
+  "publicationYear": 1904,
+  "source": "Sacred Texts Archive",
+  "sourceUrl": "https://www.sacred-texts.com/grim/lks/index.htm",
+  "licenseStatus": "Public Domain"
+}
