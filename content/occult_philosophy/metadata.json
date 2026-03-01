@@ -1,0 +1,14 @@
+{
+  "id": "occult_philosophy",
+  "title": "Three Books of Occult Philosophy",
+  "author": "Heinrich Cornelius Agrippa",
+  "translator": "J. F. (John French)",
+  "description": "The foundational work of Renaissance magic, covering natural magic, celestial magic, and ceremonial magic.",
+  "tags": ["Ceremonial Magic", "Renaissance", "Kabbalah", "Astrology"],
+  "sortOrder": 3,
+  "edition": "London, 1651 (English Translation by J. F.)",
+  "publicationYear": 1651,
+  "source": "Sacred Texts Archive",
+  "sourceUrl": "https://www.sacred-texts.com/mag/gbop/index.htm",
+  "licenseStatus": "Public Domain"
+}

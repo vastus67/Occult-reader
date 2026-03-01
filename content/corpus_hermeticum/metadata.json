@@ -1,0 +1,14 @@
+{
+  "id": "corpus_hermeticum",
+  "title": "Corpus Hermeticum",
+  "author": "Hermes Trismegistus",
+  "translator": "G.R.S. Mead",
+  "description": "A collection of Greek texts attributed to Hermes Trismegistus, foundational to the Hermetic tradition.",
+  "tags": ["Hermeticism", "Gnosticism", "Ancient Texts"],
+  "sortOrder": 2,
+  "edition": "Thrice-Greatest Hermes (Vol. 2), G.R.S. Mead translation, 1906",
+  "publicationYear": 1906,
+  "source": "The Gnosis Archive / Sacred Texts",
+  "sourceUrl": "https://www.sacred-texts.com/eso/hermetic.htm",
+  "licenseStatus": "Public Domain"
+}
